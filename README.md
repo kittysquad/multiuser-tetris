@@ -27,7 +27,7 @@ sudo npm run start
 ```
 sudo npm build
 ```
-	* After use this command, 'public/bundle.js' was compiled for production. ( uglyfyed and removed comment in the source )
+* After use this command, 'public/bundle.js' was compiled for production. ( uglyfyed and removed comment in the source )
 
 ## Project Folder descript
 
