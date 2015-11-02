@@ -1,4 +1,4 @@
-# Multi Tetris
+# Multiuser Tetris
 
 ## Requirement
 
